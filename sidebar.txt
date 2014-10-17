@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jad:home|Door43 (jad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jad|d43-jad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jad/archive/master.zip|d43-jad.zip]]
+
+**Recent Changes**
+{{changes>ns = jad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jad|Ethnologue data]]
+
